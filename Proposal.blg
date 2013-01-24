@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Proposal.aux
+The style file: plain.bst
+Database file #1: FullLibBib.bib
+Warning--empty journal in Lafferty:2000ti
+You've used 13 entries,
+            2118 wiz_defined-function locations,
+            592 strings with 6372 characters,
+and the built_in function-call counts, 4153 in all, are:
+= -- 425
+> -- 157
+< -- 2
++ -- 63
+- -- 50
+* -- 296
+:= -- 701
+add.period$ -- 39
+call.type$ -- 13
+change.case$ -- 64
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 155
+empty$ -- 331
+format.name$ -- 50
+if$ -- 852
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 13
+newline$ -- 68
+num.names$ -- 26
+pop$ -- 48
+preamble$ -- 1
+purify$ -- 51
+quote$ -- 0
+skip$ -- 111
+stack$ -- 0
+substring$ -- 324
+swap$ -- 26
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 52
+warning$ -- 1
+while$ -- 48
+width$ -- 15
+write$ -- 142
+(There was 1 warning)
